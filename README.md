@@ -20,5 +20,6 @@ cross-validation. For each fold, you must provide the table below:
 2,
 where 𝑦𝑦𝑖𝑖 is a ground truth value of the i-th test data, 𝐗𝐗 𝐢𝐢 𝐛𝐛 is a prediction from the linear
 regression model, and N is a number of test data
+<img width="709" alt="Screenshot 2024-10-15 at 1 48 13 PM" src="https://github.com/user-attachments/assets/991b90b5-ebd8-443d-bcc3-740b6a98bb8e">
 
 To run- python3 Hw3.py
